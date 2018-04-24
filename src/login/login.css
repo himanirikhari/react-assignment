@@ -1,0 +1,15 @@
+.sidebar
+{
+    background-color: grey;
+    height: 1028px;
+}
+.wrap
+{
+    height: 1028px;
+}
+
+.login
+{
+    margin: auto;
+    padding-bottom: 50%;
+}
